@@ -16,7 +16,6 @@ C:\Users\gandh\Downloads\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Edit
 C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Editor_Assignment_2\bin\Debug\Text_Editor_Assignment_2.exe.config
 C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Editor_Assignment_2\bin\Debug\Text_Editor_Assignment_2.exe
 C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Editor_Assignment_2\bin\Debug\Text_Editor_Assignment_2.pdb
-C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Editor_Assignment_2\obj\Debug\Text_Editor_Assignment_2.csproj.AssemblyReference.cache
 C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Editor_Assignment_2\obj\Debug\Text_Editor_Assignment_2.About.resources
 C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Editor_Assignment_2\obj\Debug\Text_Editor_Assignment_2.LoginPage.resources
 C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Editor_Assignment_2\obj\Debug\Text_Editor_Assignment_2.Properties.Resources.resources
@@ -26,3 +25,4 @@ C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Te
 C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Editor_Assignment_2\obj\Debug\Text_Editor_Assignment_2.csproj.CoreCompileInputs.cache
 C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Editor_Assignment_2\obj\Debug\Text_Editor_Assignment_2.exe
 C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Editor_Assignment_2\obj\Debug\Text_Editor_Assignment_2.pdb
+C:\Users\gandh\OneDrive\Desktop\Text_Editor_Assignment_2-20211021T070226Z-001\Text_Editor_Assignment_2\obj\Debug\Text_Editor_Assignment_2.csproj.AssemblyReference.cache

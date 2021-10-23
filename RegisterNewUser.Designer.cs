@@ -144,7 +144,7 @@
             this.dob.Name = "dob";
             this.dob.Size = new System.Drawing.Size(200, 23);
             this.dob.TabIndex = 11;
-            this.dob.Value = new System.DateTime(2021, 10, 21, 0, 0, 0, 0);
+            this.dob.Value = new System.DateTime(1990, 1, 15, 0, 0, 0, 0);
             // 
             // label3
             // 
